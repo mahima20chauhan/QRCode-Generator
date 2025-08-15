@@ -1,0 +1,56 @@
+# ✨ QR Code Generator
+
+A simple and stylish QR Code Generator built with **HTML, CSS, and JavaScript**.  
+Easily generate QR codes from **text, URLs, or any custom input**, and download them with one click.  
+Designed with a glowing, responsive UI for a modern look on all devices.  
+
+---
+
+## 🚀 Features
+- 🔹 Generate QR codes instantly from:
+  - Text
+  - Website URLs
+  - Any custom string
+- 🔹 **Download** QR code as an image
+- 🔹 Fully **responsive** design
+- 🔹 **Glowing effects** and animations for premium look
+- 🔹 Works offline (no external API required)
+
+---
+
+## 🖼️ Demo
+demo.png
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3** (Animations, Glowing Effects)
+- **JavaScript (qrcode.js)**
+
+🌟 How to Use
+Type your text, URL, or any string into the input box.
+Click Generate.
+Your QR code appears instantly in the center.
+Click Download to save it as an image.
+
+📂 Project Structure
+qr-generator/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│   ├── qrcode.min.js
+│   └── background.png
+
+🔮 Future Improvements
+Add option for custom colors
+Add QR code size selector
+Add support for embedded logos
+
+📄 License
+This project is open-source and available under the MIT License.
+pgsql
+Copy
+Edit
+
